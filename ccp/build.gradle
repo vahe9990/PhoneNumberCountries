@@ -2,10 +2,10 @@ apply plugin: 'com.android.library'
 apply plugin: 'com.vanniktech.maven.publish'
 
 android {
-    compileSdkVersion 33
+    compileSdkVersion 34
 
     defaultConfig {
-        minSdkVersion 14
+        minSdkVersion 21
         targetSdkVersion 33
     }
     buildTypes {
