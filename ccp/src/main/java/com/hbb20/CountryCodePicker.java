@@ -2452,6 +2452,7 @@ public class CountryCodePicker extends RelativeLayout {
     public enum Language {
         AFRIKAANS("af"),
         ARABIC("ar"),
+        ARMENIAN("hy"),
         BASQUE("eu"),
         BELARUSIAN("by"),
         BENGALI("bn"),
